@@ -1,0 +1,1 @@
+# RedmiAX6000_OpenWrtSetting
